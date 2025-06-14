@@ -47,7 +47,7 @@ Editar
 
 El sitio puede ser visualizado desde GitHub Pages en la siguiente URL:
 
-📎 [https://JorgeBallestas.github.io/centro-recreacional](https://JorgeBallestas.github.io/centro-recreacional)
+📎 [(https://github.com/JorgeBallestas/centro-recreacional)]
 
 > Asegúrate de haber activado GitHub Pages desde la configuración del repositorio.
 
@@ -57,7 +57,8 @@ El sitio puede ser visualizado desde GitHub Pages en la siguiente URL:
 - Proyecto formativo — SENA ADSO
 
 ## 📬 Contacto
--** Correo Electronico:**[ballestasjorge66@gmail.com]
+- ** Correo Electrónico:** [ballestasjorge66@gmail.com]
+
 Si tienes sugerencias o quieres contribuir, no dudes en abrir un issue o hacer un pull request.
 
 ---

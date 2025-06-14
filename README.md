@@ -1,6 +1,17 @@
 # 🌟 Centro Recreacional ADSO
 
 **Centro Recreacional ADSO** es un proyecto web desarrollado con HTML y CSS con el objetivo de presentar de forma visual e informativa uno de los centros recreativos más completos y modernos del país.
+## Zona De Niños.
+
+![Foto de perfil](zonas-ninos.jpg)
+
+## Zona De Adolecentes.
+
+![Foto de perfil](zonas-adolecente.jpg)
+
+## Zona De Adolecentes.
+
+![Foto de perfil](zonas-adulto.jpg)
 
 ## 📌 Descripción del Proyecto
 
@@ -46,7 +57,7 @@ El sitio puede ser visualizado desde GitHub Pages en la siguiente URL:
 - Proyecto formativo — SENA ADSO
 
 ## 📬 Contacto
-
+-** Correo Electronico:**[ballestasjorge66@gmail.com]
 Si tienes sugerencias o quieres contribuir, no dudes en abrir un issue o hacer un pull request.
 
 ---

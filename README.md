@@ -3,7 +3,7 @@
 **Centro Recreacional ADSO** es un proyecto web desarrollado con HTML y CSS con el objetivo de presentar de forma visual e informativa uno de los centros recreativos más completos y modernos del país.
 ## Zona De Niños.
 
-![Foto de perfil](zonas-ninos.jpg)
+![Foto de perfil](zona-ninos.jpg)
 
 ## Zona De Adolecentes.
 
@@ -11,7 +11,7 @@
 
 ## Zona De Adolecentes.
 
-![Foto de perfil](zonas-adulto.jpg)
+![Foto de perfil](zona-adulto.jpg)
 
 ## 📌 Descripción del Proyecto
 
